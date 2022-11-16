@@ -1,0 +1,17 @@
+{
+  "funcionario": [
+    {
+      "id": 1,
+      "nome": "jean",
+      "email": "jean@sen.com",
+      "telefone": "71996088692"
+    },
+    {
+      "nome": "jeansf",
+      "email": "jjeanfreitass@gmail.com",
+      "telefone": "71996088691",
+      "ação": true,
+      "id": 2
+    }
+  ]
+}
